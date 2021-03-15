@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cansukocak/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj": {}
+    "/Users/cansukocak/Desktop/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj": {}
   },
   "projects": {
-    "/Users/cansukocak/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj": {
+    "/Users/cansukocak/Desktop/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cansukocak/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj",
+        "projectUniqueName": "/Users/cansukocak/Desktop/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj",
         "projectName": "SupermarktItemInfo",
-        "projectPath": "/Users/cansukocak/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj",
+        "projectPath": "/Users/cansukocak/Desktop/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj",
         "packagesPath": "/Users/cansukocak/.nuget/packages/",
-        "outputPath": "/Users/cansukocak/Projects/SupermarktItemInfo/SupermarktItemInfo/obj/",
+        "outputPath": "/Users/cansukocak/Desktop/Projects/SupermarktItemInfo/SupermarktItemInfo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cansukocak/.config/NuGet/NuGet.Config"

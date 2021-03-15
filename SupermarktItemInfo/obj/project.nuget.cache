@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xu5qnOdVD1kEeYj3FkU3nDFcIdeXQA7/GIl94/DJfq8DBlBisI5Hof0Uj70Xj6GozKIVlHKhu93aifOX9hdyBQ==",
+  "dgSpecHash": "90EDWo6yMJwE1XpgVGOwb1UIwSrh8xsOGp3HdB5IeZBOcM9cF0eF77/UEgnNZG8KQ00tf79LjCjoCnybxesQcA==",
   "success": true,
-  "projectFilePath": "/Users/cansukocak/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj",
+  "projectFilePath": "/Users/cansukocak/Desktop/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj",
   "expectedPackageFiles": [
     "/Users/cansukocak/.nuget/packages/htmlagilitypack/1.11.30/htmlagilitypack.1.11.30.nupkg.sha512",
     "/Users/cansukocak/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
