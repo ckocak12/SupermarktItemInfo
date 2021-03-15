@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xu5qnOdVD1kEeYj3FkU3nDFcIdeXQA7/GIl94/DJfq8DBlBisI5Hof0Uj70Xj6GozKIVlHKhu93aifOX9hdyBQ==",
+  "success": true,
+  "projectFilePath": "/Users/cansukocak/Projects/SupermarktItemInfo/SupermarktItemInfo/SupermarktItemInfo.csproj",
+  "expectedPackageFiles": [
+    "/Users/cansukocak/.nuget/packages/htmlagilitypack/1.11.30/htmlagilitypack.1.11.30.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.configuration.newtonsoftjson/5.0.1/microsoft.extensions.configuration.newtonsoftjson.5.0.1.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/cansukocak/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
